@@ -1,0 +1,8 @@
+{
+  "name": "Digital Homework Notebook",
+  "description": "สมุดจดการบ้านดิจิทัลสำหรับนักเรียนและครู พร้อมฟังก์ชันเพิ่มการบ้านสำหรับครู ระบบเช็คลิสต์สำหรับนักเรียน และเชื่อมต่อ Firebase Firestore",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
